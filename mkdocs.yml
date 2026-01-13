@@ -1,0 +1,71 @@
+site_name: Repositório CETMob - UERGS/UFPel
+site_url: https://seu-usuario.github.io/repositorio-cetmob
+repo_name: GitHub
+
+theme:
+  name: material
+  language: pt-BR
+  palette: 
+    # Alternância Claro/Escuro (O botãozinho no topo)
+    - scheme: default
+      primary: teal
+      accent: purple
+      toggle:
+        icon: material/brightness-7
+        name: Mudar para modo escuro
+    - scheme: slate
+      primary: teal
+      accent: lime
+      toggle:
+        icon: material/brightness-4
+        name: Mudar para modo claro
+  features:
+    - navigation.expand # Abre o menu lateral
+    - navigation.sections # Separa por seções
+    - search.suggest # Sugere na busca
+    - search.highlight # Marca o texto buscado
+
+# A Estrutura do Menu (Aqui você organiza a "Biblioteca")
+nav:
+  - Início: index.md
+  - Como Contribuir: contribuir.md
+  - Semestre 1:
+      - Álgebra Linear e Geometria Analítica: semestre1/algebra-linear/index.md
+      - Algoritmos e Programação: semestre1/algoritmos/index.md
+      - Cálculo 1: semestre1/calculo1/index.md
+      - Desenho Técnico 1: semestre1/desenho1/index.md
+      - Ética e Cidadania em Transportes: semestre1/etica-cidadania/index.md
+      - Introdução à Eng. de Transportes: semestre1/intro-transportes/index.md
+      - Produção Textual: semestre1/producao-textual/index.md
+  - Semestre 2:
+      - Cálculo 2: semestre2/calculo2/index.md
+      - Desenho Técnico 2 - CAD: semestre2/desenho2/index.md
+      - Física 1 - Mecânica: semestre2/fisica1/index.md
+      - Planejamento Estratégico e Cenários aplicados ao setor de transportes: semestre2/planejamento-estrategico/index.md
+      - Seminário Integrador - Transporte e Mobilidade: semestre2/seminario-integrador/index.md
+      - Transporte de Carga: semestre2/transporte-carga/index.md
+  - Semestre 3:
+      - Equações Diferenciais: semestre3/equacoes-diferenciais/index.md
+      - Física 2 - Eletromagnetismo: semestre3/fisica2/index.md
+      - Introdução ao Controle e Automação: semestre3/introducao-controle/index.md
+      - Logística 1: semestre3/logistica1/index.md
+      - Planejamento Urbano e Mobilidade: semestre3/planejamento-urbano/index.md
+      - Probabilidade e Estatística: semestre3/probabilidade-estatistica/index.md
+
+
+
+# Configuração extra para matemática (JavaScript)
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+plugins:
+  - search # (Esse já costuma vir padrão)
+  #- mkdocs-jupyter
