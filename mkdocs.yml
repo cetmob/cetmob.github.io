@@ -1,5 +1,5 @@
 site_name: Repositório CETMob - UERGS/UFPel
-site_url: https://seu-usuario.github.io/repositorio-cetmob
+site_url: https://cetmob.github.io/repositorio-cetmob
 repo_name: GitHub
 
 theme:
@@ -28,7 +28,6 @@ theme:
 # A Estrutura do Menu (Aqui você organiza a "Biblioteca")
 nav:
   - Início: index.md
-  - Como Contribuir: contribuir.md
   - Semestre 1:
       - Álgebra Linear e Geometria Analítica: semestre1/algebra-linear/index.md
       - Algoritmos e Programação: semestre1/algoritmos/index.md
@@ -63,6 +62,10 @@ extra_css:
   - stylesheets/extra.css
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
   - pymdownx.arithmatex:
       generic: true
 
