@@ -72,7 +72,9 @@ A Revolução Industrial foi o grande divisor de águas, introduzindo o motor a 
 
 ---
 
-## 📂 Arquivos
-> **Aviso:** O conteúdo dessa página foi baseado nas aulas disponibilizadas pelo professor. Caso encontre algum erro ou falta de conteúdo, informe ao administrador do respositório.
+## Arquivos
 
-- [Aula 1 - Introdução e Histórico](https://drive.google.com/file/d/1z-VSuCDZyWU9am2IJeobXssQ3YezfkOU/view?usp=drive_link)
+!!! warning "Aviso" 
+    O conteúdo dessa página foi baseado nas aulas disponibilizadas pelo professor. Caso encontre algum erro ou falta de conteúdo, informe ao administrador do respositório.
+
+- [Introdução e Histórico](https://drive.google.com/file/d/1z-VSuCDZyWU9am2IJeobXssQ3YezfkOU/view?usp=drive_link)

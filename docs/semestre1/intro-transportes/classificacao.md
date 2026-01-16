@@ -84,7 +84,9 @@ Quanto à Propulsão (Força Motriz)
 
 ---
 
-## 📂 Arquivos
-> **Aviso:** O conteúdo dessa página foi baseado nas aulas disponibilizadas pelo professor. Caso encontre algum erro ou falta de conteúdo, informe ao administrador do respositório.
+## Arquivos
 
-- [Aula 3 - Classificação](https://drive.google.com/file/d/15uBXtW4jYtXEgKPLm1B98Fw5Fbiwc0WN/view?usp=sharing)
+!!! warning "Aviso" 
+    O conteúdo dessa página foi baseado nas aulas disponibilizadas pelo professor. Caso encontre algum erro ou falta de conteúdo, informe ao administrador do respositório.
+
+- [Classificação dos Transportes](https://drive.google.com/file/d/15uBXtW4jYtXEgKPLm1B98Fw5Fbiwc0WN/view?usp=sharing)

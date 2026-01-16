@@ -66,5 +66,11 @@ Um sistema de transporte é formado por 5 elementos principais:
 
 5. Sistemas de Informação e Controle.
 
-
 ---
+
+## Arquivos
+
+!!! warning "Aviso" 
+    O conteúdo dessa página foi baseado nas aulas disponibilizadas pelo professor. Caso encontre algum erro ou falta de conteúdo, informe ao administrador do respositório.
+
+- [Geopolítica](https://drive.google.com/file/d/18SfU-ievREQPsMBvPrqOZMvUo5LEWk3V/view?usp=sharing)

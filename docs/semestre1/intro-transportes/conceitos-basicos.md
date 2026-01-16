@@ -64,7 +64,9 @@ A aula detalha a estrutura de custos, essencial para o planejamento e precifica�
 
 ---
 
-## 📂 Arquivos
-> **Aviso:** O conteúdo dessa página foi baseado nas aulas disponibilizadas pelo professor. Caso encontre algum erro ou falta de conteúdo, informe ao administrador do respositório.
+## Arquivos
 
-- [Aula 4 - Conceitos básicos ao Transporte](https://drive.google.com/file/d/1NcXdzmEnvDcH5MxFklsVl_6d3DSl5YYl/view?usp=sharing)
+!!! warning "Aviso" 
+    O conteúdo dessa página foi baseado nas aulas disponibilizadas pelo professor. Caso encontre algum erro ou falta de conteúdo, informe ao administrador do respositório.
+
+- [Conceitos básicos ao Transporte](https://drive.google.com/file/d/1NcXdzmEnvDcH5MxFklsVl_6d3DSl5YYl/view?usp=sharing)
