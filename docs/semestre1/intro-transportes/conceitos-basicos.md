@@ -1,5 +1,9 @@
 # Conceitos Básicos ao Transportes
 
+!!! quote "Créditos"
+    * **Autor:** L. Moutinho (Com IA)
+    * **Turma:** 2025/1
+
 A palavra TRANSPORTE tem origem no latim e significa mudança de lugar. Assim, transportar é conduzir, levar pessoas ou cargas de um lugar para outro.
 
 ## Sistema de Transportes

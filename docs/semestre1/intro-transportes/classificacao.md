@@ -1,5 +1,9 @@
 # Classificação dos Transportes
 
+!!! quote "Créditos"
+    * **Autor:** L. Moutinho (Com IA)
+    * **Turma:** 2025/1
+
 ## Classificação quanto ao Objeto de Transporte
 
 Esta categoria define o sistema baseando-se no "o que" está sendo transportado.

@@ -1,5 +1,9 @@
 # Política Nacional de Mobilidade Urbana
 
+!!! quote "Créditos"
+    * **Autor:** L. Moutinho (Com IA)
+    * **Turma:** 2025/1
+
 Esta aula aborda a legislação brasileira (Lei 12.587/12) que estruturou o planeamento de transportes no país, estabelecendo princípios, direitos e deveres para os entes federativos.
 
 ## Marco Legal e Evolução

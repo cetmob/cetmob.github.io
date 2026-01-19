@@ -1,5 +1,9 @@
 # Modal Aereoviário
 
+!!! quote "Créditos"
+    * **Autor:** L. Moutinho (Com IA)
+    * **Turma:** 2025/1
+
 Esta aula abrange as características operacionais do transporte aéreo, a legislação básica (liberdades do ar), o planeamento da infraestrutura e as normas técnicas de projeto (FAA/ICAO).
 
 ## Características do Transporte Aéreo
@@ -34,7 +38,7 @@ O sistema é composto por uma cadeia de elementos que vai do "Ar" à "Terra":
 
 - Espaço aéreo (geral e do aeroporto) $\rightarrow$ Pista de aterragem e descolagem $\rightarrow$ Sistema de taxiamento $\rightarrow$ Pátio de manobras $\rightarrow$ Terminal $\rightarrow$ Estacionamento e Acessos terrestres.
 
-## Fatores de Localização
+### Fatores de Localização
 
 A escolha do local para um aeroporto depende de:
 
@@ -52,4 +56,45 @@ A escolha do local para um aeroporto depende de:
 
 - **Número de Pistas: Definido pelo volume de tráfego esperado.**
 
-4. Áreas de Movimentação (Lado Ar)Pista de Aterragem e Descolagem (Runway): Área retangular preparada para o pouso e descolagem. O seu comprimento depende do desempenho da aeronave, altitude e temperatura local (quanto mais quente e alto, maior a pista necessária) 12121212.Pista de Taxiamento (Taxiway): Vias que conectam a pista aos terminais e hangares13.Pista de Manobra (Apron Taxiway): Acesso às áreas de manobra junto à pista14.Pista de Estacionamento (Taxilane): Acesso aos locais de estacionamento junto aos terminais15.5. Normas e Classificação de AeroportosExistem dois grandes órgãos normatizadores:FAA (EUA): Define padrões focados na aviação norte-americana, mas usados globalmente pela indústria. Classifica aeroportos baseando-se na Velocidade de Aproximação (Categoria A, B, C, D, E) e na Envergadura da aeronave (Grupo I a VI) 161616161616161616.ICAO (Internacional): Define padrões mundiais. Classifica através de um Código Numérico (1-4) baseado no comprimento da pista e um Código Alfabético (A-E) baseado na envergadura e distância entre as rodas do trem de pouso 17171717.Exemplo ICAO: Um aeroporto "4E" tem pista maior que 1800m (código 4) e aceita aeronaves com envergadura entre 52m e 65m (código E)18.6. Curiosidades e EstatísticasO material traz alguns recordes interessantes (dados aprox. 2004):Maior em Área: Aeroporto Rei Khalid (Arábia Saudita) - 225 $km^2$19.Maior em Passageiros: Hartsfield-Jackson (Atlanta, EUA) - 88,4 milhões/ano20.Maior Tráfego Internacional: Heathrow (Londres)21.Maior em Carga: Memphis (EUA), devido ao hub da FedEx22.Maior Altitude: Bangda (Tibete), a 4.334m de altitude, que também possui uma das pistas mais longas (5.500m) devido ao ar rarefeito23.
+## Áreas de Movimentação (Lado Ar)
+
+- **Pista de Aterragem e Descolagem (Runway):** Área retangular preparada para o pouso e descolagem. O seu comprimento depende do desempenho da aeronave, altitude e temperatura local (quanto mais quente e alto, maior a pista necessária).
+
+- **Pista de Taxiamento (Taxiway):** Vias que conectam a pista aos terminais e hangares.
+
+- **Pista de Manobra (Apron Taxiway):** Acesso às áreas de manobra junto à pista.
+
+- **Pista de Estacionamento (Taxilane):** Acesso aos locais de estacionamento junto aos terminais.
+
+## Normas e Classificação de Aeroportos
+
+Existem dois grandes órgãos normatizadores:
+
+1. **FAA (EUA):** Define padrões focados na aviação norte-americana, mas usados globalmente pela indústria. Classifica aeroportos baseando-se na **Velocidade de Aproximação** (Categoria A, B, C, D, E) e na **Envergadura da aeronave** (Grupo I a VI).
+
+2. **ICAO (Internacional):** Define padrões mundiais. Classifica através de um **Código Numérico (1-4)** baseado no comprimento da pista e um **Código Alfabético (A-E)** baseado na envergadura e distância entre as rodas do trem de pouso.
+
+*Exemplo ICAO:* Um aeroporto "4E" tem pista maior que 1800m (código 4) e aceita aeronaves com envergadura entre 52m e 65m (código E).
+
+## Curiosidades e Estatísticas
+
+O material traz alguns recordes interessantes (dados aprox. 2004):
+
+- **Maior em Área:** Aeroporto Rei Khalid (Arábia Saudita) - 225 $km^2$.
+
+- **Maior em Passageiros:** Hartsfield-Jackson (Atlanta, EUA) - 88,4 milhões/ano.
+
+- **Maior Tráfego Internacional:** Heathrow (Londres).
+
+- **Maior em Carga:** Memphis (EUA), devido ao hub da FedEx.
+
+- **Maior Altitude:** Bangda (Tibete), a 4.334m de altitude, que também possui uma das pistas mais longas (5.500m) devido ao ar rarefeito.
+
+---
+
+## Arquivos
+
+!!! warning "Aviso"
+    O conteúdo dessa página foi baseado nas aulas disponibilizadas pelo professor. Caso encontre algum erro ou falta de conteúdo, informe ao administrador do respositório.
+
+- [Modal Aeroviário](https://drive.google.com/file/d/1d46wMxoaM1SxxlEksN5DDWDhb0dkheey/view?usp=sharing)

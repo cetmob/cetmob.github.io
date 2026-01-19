@@ -1,5 +1,9 @@
 # Mobilidade Urbana
 
+!!! quote "Créditos"
+    * **Autor:** L. Moutinho (Com IA)
+    * **Turma:** 2025/1
+
 Esta aula é fundamental pois transita dos conceitos puramente operacionais de transporte para os conceitos sociais, urbanísticos e legais que regem o planejamento das cidades modernas.
 
 ## Conceitos Fundamentais: Mobilidade vs. Acessibilidade

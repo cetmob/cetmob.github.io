@@ -1,5 +1,9 @@
 # Histórico
 
+!!! quote "Créditos"
+    * **Autor:** L. Moutinho (Com IA)
+    * **Turma:** 2025/1
+
 ## Conceitos Fundamentais e Evolução Primitiva
 
 **Definição de Transporte**: É o deslocamento de pessoas e cargas (pesos) de um local para outro.

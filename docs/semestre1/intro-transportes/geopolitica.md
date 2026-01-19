@@ -1,5 +1,9 @@
 # Geopolítica de Transporte
 
+!!! quote "Créditos"
+    * **Autor:** L. Moutinho (Com IA)
+    * **Turma:** 2025/1
+
 ## Contexto Geográfico Brasileiro
 
 O Brasil possui dimensões continentais, com **8.511.965 km²**, ocupando cerca de **47,7%** de toda a América do Sul. Essa vastidão define os desafios e as soluções de transporte em cada fronteira:

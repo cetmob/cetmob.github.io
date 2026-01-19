@@ -1,5 +1,9 @@
 # Modal Dutoviário
 
+!!! quote "Créditos"
+    * **Autor:** L. Moutinho (Com IA)
+    * **Turma:** 2025/1
+
 Esta aula cobre desde a evolução histórica até as especificidades técnicas e operacionais desse sistema, que é "invisível" para a maioria das pessoas, mas vital para a economia (especialmente energia e saneamento).
 
 ## Definição e Histórico

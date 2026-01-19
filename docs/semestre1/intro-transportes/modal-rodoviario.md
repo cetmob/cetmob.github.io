@@ -1,5 +1,9 @@
 # Modal Rodoviário
 
+!!! quote "Créditos"
+    * **Autor:** L. Moutinho (Com IA)
+    * **Turma:** 2025/1
+
 Este material é bastante técnico na parte de classificação de vias e nomenclatura de rodovias federais (um tópico comum em concursos e provas da área).
 
 ## Definição e Características Gerais
